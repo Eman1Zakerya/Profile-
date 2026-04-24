@@ -1,7 +1,7 @@
 # Hi there, I'm Eman zakareya hammam 👋
 ###  Flutter Developer 
 
-> **"Turning delayed projects into success stories. Delivered 10+ overdue projects in 3 months."**
+
 
 ---
 
